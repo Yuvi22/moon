@@ -1,0 +1,12 @@
+{
+    "name": "yuvi/moonshard",
+    "description": "website 1st attempt",
+    "type": "n",
+    "authors": [
+        {
+            "name": "Yuvi",
+            "email": "yramluggun@gmail.com"
+        }
+    ],
+    "require": {}
+}
